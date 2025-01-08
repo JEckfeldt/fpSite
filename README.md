@@ -8,8 +8,8 @@ To Run:
 - The site will automatically collect the fingerprint of the visiting device and save the results to the /json folder
 - Refreshing or revisiting the page will be considered another visit and another fingerprint will be collected
 
-Data set:
-The collected experimental dataset is inside "dataset.zip". The folder is quite large (around 2.7 GB) so be weary when extracting or opening in an editor.
+Data Set: [Download dataset.zip](https://tinyurl.com/3xymtenc)
+The collected experimental data set is in a google drive zip file via the link above. Keep in mind it is quite large at around 2.7GB after unzipping
 
 The json files are named after the visiting user agent with a timestamp appened in the format "useragent-timestamp.json". 
 If a user agent appears for the first time (it is not currently in the directory), it is saved as "useragent_base.json". 
