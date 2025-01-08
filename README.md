@@ -10,7 +10,7 @@ To Run:
 
 Data Set: [Download dataset.zip](https://tinyurl.com/3xymtenc)
 
-The collected experimental data set is linked here. Keep in mind it is quite large at around 2.7GB after unzipping
+The collected experimental data set is linked above. Keep in mind it is quite large at around 2.7GB after unzipping
 
 The json files are named after the visiting user agent with a timestamp appened in the format "useragent-timestamp.json". 
 If a user agent appears for the first time (it is not currently in the directory), it is saved as "useragent_base.json". 
