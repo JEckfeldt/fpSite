@@ -1,0 +1,21 @@
+{
+    "name": "fp-collection",
+    "version": "1.0.0",
+    "description": "A simple collection app",
+    "main": "app.js",
+    "scripts": {
+      "start": "supervisor app.js"
+    },
+    "dependencies": {
+      "@fingerprintjs/fingerprintjs": "^4.2.2",
+      "body-parser": "^1.20.2",
+      "cors": "^2.8.5",
+      "express": "^4.19.2",
+      "fingerprintjs2": "^2.1.4",
+      "node-fetch": "^3.3.2",
+      "node-modules": "^0.0.1",
+      "nodemon": "^3.1.0",
+      "supervisor": "^0.12.0"
+    }
+  }
+  
