@@ -6,6 +6,7 @@ To Run:
 - Run "npm install" (nodeJS required) in terminal in the same directory as "app.js"
 - Type "npm start" afterwards to run the site, the address will be "localhost:80" by default in browser address bar
 - The site will automatically collect the fingerprint of the visiting device and save the results to the /json folder
+- Refreshing or revisiting the page will be considered another visit and another fingerprint will be collected
 
 Data set:
 The collected experimental dataset is inside "dataset.zip". The folder is quite large (around 2.7 GB) so be weary when extracting or opening in an editor.
